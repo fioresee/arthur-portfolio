@@ -366,7 +366,7 @@ main{
 .div-habilidades{
   border: var(--color-primary) solid 3px;
   border-radius: 20px;
-  padding: 20px;
+  padding: 15px;
   transition: transform 0.4s ease, transform 0.4s ease;
 }
 
@@ -375,7 +375,7 @@ main{
   background-color: var(--color-primary);
   color: var(--color-background);
   font-weight: bolder;
-  transform: scale(1.5);
+  transform: scale(1.2);
   box-shadow: 0 0 10px rgba(255, 187, 85, 0.3);
 }
 
